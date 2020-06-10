@@ -1,0 +1,21 @@
+logowanie:
+
+kasjer:
+login: kasjer1
+hasło: kasjer
+
+barman:
+login: barman1
+hasło: barman
+
+technik audiowizualny:
+login: technikaw1
+hasło: technik
+
+kierownik:
+login: kierownik1
+hasło: kierownik
+
+manager:
+login: manager1
+hasło: manager
